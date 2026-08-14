@@ -1,0 +1,26 @@
+# ImageNet images (do not upload)
+data/images/
+
+# Runtime outputs
+adv_data/
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.venv/
+venv/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

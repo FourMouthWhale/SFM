@@ -1,0 +1,1 @@
+                        |  ViT-B   |  Deit-B  |  PiT-T   |  CaiT-S  |  PiT-B   |  Vis-S   |  Swin-T  |  Coat-T  | LeViT-256|  TNT-S   | ConViT-B |  Inc-v3  |  Inc-v4  | IncRes-v2|  Res-50  |  Res-v2  |   Avg    | 

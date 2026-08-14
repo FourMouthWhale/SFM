@@ -1,0 +1,19 @@
+eval: false
+
+attack: ""
+
+batch_size: 1
+  
+model: ""
+
+ensemble: false
+
+input_dir: "./data"
+
+output_dir: "./adv_data"
+
+targeted: false
+
+GPU_ID: '0'
+
+num_workers: 8
