@@ -22,8 +22,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Main Results
+![Overview](./figs/results.png.png)
+
 ## Citation
-If you find this work useful, please cite:
+If you find this work helpful, please consider citing our paper:
 
 ```bibtex
 @article{ZhuHG:Adversarial:TDSC26,
@@ -38,3 +41,7 @@ If you find this work useful, please cite:
   source    = {https://github.com/FourMouthWhale/SFM},
 }
 ```
+
+## Code References
+
+This work would not have been possible without the excellent open-source project [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttack). We sincerely appreciate the authors' contributions.
