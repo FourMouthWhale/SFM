@@ -23,7 +23,7 @@ python main.py
 ```
 
 ## Main Results
-![Overview](./figs/results.png.png)
+![Results](./figs/results.png)
 
 ## Citation
 If you find this work helpful, please consider citing our paper:
